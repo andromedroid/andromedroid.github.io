@@ -4,4 +4,4 @@ layout: default
 
 # index
 
-* Hello GitHub !
+* [books which recently i've read.](./books.html)
