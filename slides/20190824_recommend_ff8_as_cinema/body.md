@@ -203,7 +203,7 @@
 		* ラストダンジョンの道中  
 <br>
 * なぜかエンディングが含まれていないので  
-[別の動画](https://youtu.be/IXceqIctJmA)からどうぞ。
+[別の動画](https://youtu.be/f4Mxj6MZewQ?t=360)からどうぞ。
 
 ---
 
